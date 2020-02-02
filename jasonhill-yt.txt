@@ -1784,3 +1784,5 @@ r3---sn-npoe7nek.googlevideo.com
 r1---sn-npoe7nek.googlevideo.com
 r2---sn-npoe7nek.googlevideo.com
 r4---sn-npoe7nek.googlevideo.com
+
+127.0.0.1 aax-fe-sin.amazon-adsystem.com
