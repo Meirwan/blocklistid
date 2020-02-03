@@ -1784,6 +1784,7 @@ r3---sn-npoe7nek.googlevideo.com
 r1---sn-npoe7nek.googlevideo.com
 r2---sn-npoe7nek.googlevideo.com
 r4---sn-npoe7nek.googlevideo.com
+r7.sn-2uuxa3vh-jb3e.googlevideo.com
 
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 app.chat.global.xiaomi.net
